@@ -1,0 +1,14 @@
+C:\Users\User\source\LBC#\LB3\1\Rectangle\bin\Debug\net7.0\Rectangle.exe
+C:\Users\User\source\LBC#\LB3\1\Rectangle\bin\Debug\net7.0\Rectangle.deps.json
+C:\Users\User\source\LBC#\LB3\1\Rectangle\bin\Debug\net7.0\Rectangle.runtimeconfig.json
+C:\Users\User\source\LBC#\LB3\1\Rectangle\bin\Debug\net7.0\Rectangle.dll
+C:\Users\User\source\LBC#\LB3\1\Rectangle\bin\Debug\net7.0\Rectangle.pdb
+C:\Users\User\source\LBC#\LB3\1\Rectangle\obj\Debug\net7.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\LBC#\LB3\1\Rectangle\obj\Debug\net7.0\Rectangle.AssemblyInfoInputs.cache
+C:\Users\User\source\LBC#\LB3\1\Rectangle\obj\Debug\net7.0\Rectangle.AssemblyInfo.cs
+C:\Users\User\source\LBC#\LB3\1\Rectangle\obj\Debug\net7.0\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\User\source\LBC#\LB3\1\Rectangle\obj\Debug\net7.0\Rectangle.dll
+C:\Users\User\source\LBC#\LB3\1\Rectangle\obj\Debug\net7.0\refint\Rectangle.dll
+C:\Users\User\source\LBC#\LB3\1\Rectangle\obj\Debug\net7.0\Rectangle.pdb
+C:\Users\User\source\LBC#\LB3\1\Rectangle\obj\Debug\net7.0\Rectangle.genruntimeconfig.cache
+C:\Users\User\source\LBC#\LB3\1\Rectangle\obj\Debug\net7.0\ref\Rectangle.dll
